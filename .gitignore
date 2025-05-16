@@ -1,7 +1,7 @@
 .ipynb_checkpoints/
 apartmentenv/
-data/
 for me/
 1 CW deployment_steps.ipynb
 test.py
-
+2 CW data_prep.ipynb
+4 CW model.ipynb
